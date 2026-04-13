@@ -1,12 +1,11 @@
 # 👋 Ankur Das (CyberPhantom)
 
 ## 🧠 About Me
-I’m currently pursuing MCA with a specialization in Cybersecurity.  
-Previously completed BCA in Cloud and Security.
+I’m currently pursuing MCA with a specialization in Cybersecurity, after completing my BCA in Cloud and Security.
 
 I’m focused on understanding how systems work, identifying vulnerabilities, and building practical security tools.
 
-Currently preparing for the eJPT certification.
+Currently preparing for the eJPT certification to strengthen my penetration testing skills.
 
 ---
 
@@ -16,7 +15,7 @@ Currently preparing for the eJPT certification.
 
 ## ⚔️ What I'm Working On
 - 🔍 Cybersecurity tools (Port Scanner, HIDS)
-- 🛡 Penetration testing (eJPT)
+- 🛡 Penetration testing practice (eJPT)
 - 🤖 Offline AI assistant (JARVIS)
 
 ---
@@ -25,42 +24,14 @@ Currently preparing for the eJPT certification.
 - Exploitation  
 - Post-exploitation  
 - Enumeration  
-- Social Engineering  
+- Social engineering  
 
 </td>
 
 <td width="50%" valign="top">
 
 ## 🧰 Tools & Tech
-<details>
-<summary>⚡ Click to expand</summary>
-
-- Python  
-- Nmap, Wireshark  
-- Kali Linux  
-
-</details>
-
----
-
-## 🚀 Projects
-
-<details>
-<summary>🔎 View My Projects</summary>
-
-### 🔎 [Python Port Scanner](https://github.com/ankurdas-cyberphantom/python-port-scanner)
-Lightweight scanner using Python sockets  
-
-### 🛡 HIDS *(in progress)*
-File integrity monitoring system  
-
-### 🤖 JARVIS AI *(experimental)*
-Offline assistant with automation  
-
-### ⚙️ Other Scripts
-Gesture control, voice changer, automation  
-
-</details>
+`Python` `Networking` `Nmap` `Wireshark` `Kali Linux`
 
 ---
 
@@ -74,8 +45,35 @@ https://github.com/ankurdas-cyberphantom
 
 ---
 
+## 🚀 Projects
+
+🔎 **Python Port Scanner**  
+`Python` `Sockets` `Networking`  
+A lightweight scanner to identify open ports on a target system.  
+👉 https://github.com/ankurdas-cyberphantom/python-port-scanner  
+
+---
+
+🛡 **HIDS (File Integrity Monitoring)** *(in progress)*  
+`Python` `Security`  
+Detects file changes and logs suspicious activity  
+
+---
+
+🤖 **JARVIS AI (Offline Assistant)** *(experimental)*  
+`Python` `Automation` `AI`  
+Voice-controlled offline assistant  
+
+---
+
+⚙️ **Other Experiments**  
+Gesture control • Voice changer • Automation scripts  
+
+---
+
 ## ⚠️ Disclaimer
-Educational purposes only. No unauthorized use.
+All tools and projects are created for educational purposes only.  
+I do not support or engage in unauthorized activities.
 
 ---
 
