@@ -12,6 +12,7 @@ Currently preparing for the eJPT certification.
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ## ⚔️ What I'm Working On
@@ -27,12 +28,34 @@ Currently preparing for the eJPT certification.
 - Enumeration  
 - Social Engineering  
 
+---
+
+## 🧰 Tools & Tech
+Python Networking Nmap Wireshark Kali Linux
+
 </td>
 
 <td width="50%" valign="top">
 
-## 🧰 Tools & Tech
-`Python` `Networking` `Nmap` `Wireshark` `Kali Linux`
+## 🚀 Projects
+
+🔎 **[Python Port Scanner](https://github.com/ankurdas-cyberphantom/python-port-scanner)**  
+Lightweight scanner built using Python sockets to identify open ports on a target system.
+
+---
+
+🛡 *HIDS (File Integrity Monitoring)* (code coming soon)  
+Detects file changes and logs suspicious activity.
+
+---
+
+🤖 *JARVIS AI (Offline Assistant)* (experimental)  
+Voice-controlled offline assistant with automation features.
+
+---
+
+⚙️ *Other Experiments*  
+Gesture control • Voice changer • Automation scripts  
 
 ---
 
@@ -41,34 +64,9 @@ GitHub:
 https://github.com/ankurdas-cyberphantom  
 
 </td>
+
 </tr>
 </table>
-
----
-
-## 🚀 Projects
-
-🔎 **Python Port Scanner**  
-`Python` `Sockets` `Networking`  
-A lightweight scanner to identify open ports on a target system.  
-👉 https://github.com/ankurdas-cyberphantom/python-port-scanner  
-
----
-
-🛡 **HIDS (File Integrity Monitoring)** *(in progress)*  
-`Python` `Security`  
-Detects file changes and logs suspicious activity  
-
----
-
-🤖 **JARVIS AI (Offline Assistant)** *(experimental)*  
-`Python` `Automation` `AI`  
-Voice-controlled offline assistant  
-
----
-
-⚙️ **Other Experiments**  
-Gesture control • Voice changer • Automation scripts  
 
 ---
 
