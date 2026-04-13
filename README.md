@@ -1,11 +1,12 @@
 # 👋 Ankur Das (CyberPhantom)
 
 ## 🧠 About Me
-I’m currently pursuing MCA with a specialization in Cybersecurity, after completing my BCA in Cloud and Security.
+I’m currently pursuing MCA with a specialization in Cybersecurity.  
+Previously completed BCA in Cloud and Security.
 
 I’m focused on understanding how systems work, identifying vulnerabilities, and building practical security tools.
 
-Currently preparing for the eJPT certification to strengthen my penetration testing skills.
+Currently preparing for the eJPT certification.
 
 ---
 
@@ -15,7 +16,7 @@ Currently preparing for the eJPT certification to strengthen my penetration test
 
 ## ⚔️ What I'm Working On
 - 🔍 Cybersecurity tools (Port Scanner, HIDS)
-- 🛡 Penetration testing practice (eJPT)
+- 🛡 Penetration testing (eJPT)
 - 🤖 Offline AI assistant (JARVIS)
 
 ---
@@ -24,7 +25,7 @@ Currently preparing for the eJPT certification to strengthen my penetration test
 - Exploitation  
 - Post-exploitation  
 - Enumeration  
-- Social engineering  
+- Social Engineering  
 
 </td>
 
