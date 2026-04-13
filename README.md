@@ -31,7 +31,10 @@ Currently preparing for the eJPT certification.
 ---
 
 ## 🧰 Tools & Tech
-Python Networking Nmap Wireshark Kali Linux
+**Languages:**
+`Python` `C`  
+**Tools & Concepts**
+`Networking` `Nmap` `Wireshark` `Kali Linux`
 
 </td>
 
