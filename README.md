@@ -24,7 +24,8 @@ Currently preparing for the eJPT certification to strengthen my practical penetr
 ---
 
 ## 🚀 Projects
-- 🔎 Python Port Scanner  
+### 🔎 [Python Port Scanner](https://github.com/ankurdas-cyberphantom/python-port-scanner)
+A lightweight port scanner built using Python sockets to identify open ports on a target system.
 - 🛡 HIDS (File Integrity Monitoring) (in progress)  
 - 🤖 JARVIS AI (Offline Assistant - Voice Control, Automation)  
 - 🎮 Hand Gesture Control using Camera  
