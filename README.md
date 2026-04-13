@@ -1,22 +1,22 @@
 # 👋 Ankur Das (CyberPhantom)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ## 🧠 About Me
 I’m currently pursuing MCA with a specialization in Cybersecurity.  
 Previously completed BCA in Cloud and Security.
 
-Focused on understanding how systems work, identifying vulnerabilities, and building practical security tools.
+I’m focused on understanding how systems work, identifying vulnerabilities, and building practical security tools.
 
-Preparing for the eJPT certification.
+Currently preparing for the eJPT certification.
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## ⚔️ What I'm Working On
 - 🔍 Cybersecurity tools (Port Scanner, HIDS)
-- 🛡 Penetration testing practice (eJPT)
+- 🛡 Penetration testing (eJPT)
 - 🤖 Offline AI assistant (JARVIS)
 
 ---
@@ -33,7 +33,6 @@ Preparing for the eJPT certification.
 
 ## 🧰 Tools & Tech
 - Python  
-- Networking  
 - Nmap, Wireshark  
 - Kali Linux  
 
@@ -44,14 +43,11 @@ Preparing for the eJPT certification.
 🔎 [Python Port Scanner](https://github.com/ankurdas-cyberphantom/python-port-scanner)  
 Lightweight scanner using Python sockets  
 
-🛡 HIDS (in progress)  
-File integrity monitoring system  
+🛡 HIDS *(in progress)*  
 
-🤖 JARVIS AI (experimental)  
-Offline assistant with automation  
+🤖 JARVIS AI *(experimental)*  
 
-⚙️ Other Scripts  
-Gesture control, voice changer, automation  
+⚙️ Other Python scripts  
 
 ---
 
@@ -59,14 +55,14 @@ Gesture control, voice changer, automation
 GitHub:  
 https://github.com/ankurdas-cyberphantom  
 
----
-
-## ⚠️ Disclaimer
-Educational use only. No unauthorized activities.
-
 </td>
 </tr>
 </table>
+
+---
+
+## ⚠️ Disclaimer
+Educational purposes only. No unauthorized use.
 
 ---
 
