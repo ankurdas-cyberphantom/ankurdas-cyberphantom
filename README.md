@@ -32,22 +32,35 @@ Currently preparing for the eJPT certification.
 <td width="50%" valign="top">
 
 ## 🧰 Tools & Tech
+<details>
+<summary>⚡ Click to expand</summary>
+
 - Python  
 - Nmap, Wireshark  
 - Kali Linux  
+
+</details>
 
 ---
 
 ## 🚀 Projects
 
-🔎 [Python Port Scanner](https://github.com/ankurdas-cyberphantom/python-port-scanner)  
+<details>
+<summary>🔎 View My Projects</summary>
+
+### 🔎 [Python Port Scanner](https://github.com/ankurdas-cyberphantom/python-port-scanner)
 Lightweight scanner using Python sockets  
 
-🛡 HIDS *(in progress)*  
+### 🛡 HIDS *(in progress)*
+File integrity monitoring system  
 
-🤖 JARVIS AI *(experimental)*  
+### 🤖 JARVIS AI *(experimental)*
+Offline assistant with automation  
 
-⚙️ Other Python scripts  
+### ⚙️ Other Scripts
+Gesture control, voice changer, automation  
+
+</details>
 
 ---
 
