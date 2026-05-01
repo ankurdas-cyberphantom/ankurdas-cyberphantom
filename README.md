@@ -47,7 +47,7 @@ Lightweight scanner built using Python sockets to identify open ports on a targe
 
 ---
 
-🛡 *HIDS (File Integrity Monitoring)* (code coming soon)  
+🛡️ **[HIDS (File Integrity Monitoring)](https://github.com/ankurdas-cyberphantom/file-integrity-monitor)**                                                       
 Detects file changes and logs suspicious activity.
 
 ---
